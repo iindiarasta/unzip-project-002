@@ -51,10 +51,3 @@ The script will:
 - `extract_gz_files(folder)`: Processes GZIP files
 - `oldify_files(destination_folder)`: Archives previous extractions
 
-## License
-
-MIT License
-
-## Author
-
-Your Name
